@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afed157c-9f1e-4043-a252-aea42548636f" name="Changes" comment="add">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-nice-stone-0cf918600.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-nice-stone-0cf918600.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
