@@ -1,5 +1,5 @@
 # 2D lists = a list of lists
-
+# comment
 drinks = ["coffee","soda","tea"]
 dinner = ["pizza","hamburger","hotdog"]
 dessert = ["cake", "ice cream"]
